@@ -1,4 +1,4 @@
-# spelunky2-turn-back-time
+# [spelunky2-turn-back-time](https://spelunky.fyi/mods/m/turn-back-time/)
 Pay money and go back to the past.
 
 If you die, you go back to the beginning of level. The money you have at the beginning of the level decreases, and you can't go back if you didn't have enough money at that time.
